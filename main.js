@@ -1,4 +1,3 @@
-let mensaje = "Texto para el segundo commit "
-let mensaje2 = "Brotha"
+let mensaje = "Texto para el commit "
 
 console.log( mensaje); 
